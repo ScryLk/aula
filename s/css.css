@@ -1,0 +1,29 @@
+section {
+    min-width: 300px;
+    min-height: 400px;
+    justify-items: center;
+}
+
+.poscentralized {     
+        -webkit-display: flex;
+       display: flex;
+       -webkit-align-items: center;
+       align-items: center;
+       -webkit-justify-content: center;
+       justify-content: center;
+       }
+
+
+.one {
+    background-color: rgba(169, 10, 10, 0.724);
+    text-align: center;
+    
+}
+.two {
+    align-items: center;
+}
+tbody {
+    position: absolute;
+    margin-left: 46%;
+    margin-right: 50%;
+    }
