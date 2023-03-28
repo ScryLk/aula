@@ -13,6 +13,10 @@ section {
        justify-content: center;
        }
 
+td {
+    width: 200px;
+}
+
 
 .one {
     background-color: rgba(169, 10, 10, 0.724);
