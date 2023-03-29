@@ -12,14 +12,33 @@ section {
        -webkit-justify-content: center;
        justify-content: center;
        }
+p {
+    color: black;
+    font-size: 24px;
+}
 
-td {
-    width: 200px;
+
+p:hover {
+   color: green;
+}
+
+p:target {
+    color: blue;
+}
+
+.curso {
+    font-family: Open sans-serif;
+    font-size: 14px;
+}
+
+table {
+    border-color: red;
+    color: blue;
 }
 
 
 .one {
-    background-color: rgba(169, 10, 10, 0.724);
+    background-color: rgba(255, 255, 255, 0.724);
     text-align: center;
     
 }
